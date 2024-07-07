@@ -12,7 +12,7 @@ Anda akan diberikan waktu 30 menit untuk mengerjakan soal programming, serta tam
 
 Materi soal yang diujikan diambil dari mata kuliah Pemrograman Dasar dan Pemrograman Lanjut. Soal juga **Wajib** dikerjakan dalam bahasa C. Bahasa Pemrograman selain C pada tempat pengumpulan tidak akan dinilai. Pastikan juga untuk menghafal seluruh syntax-syntax yang rumit karena programming dilakukan dengan **Close Book**. Mungkin hint dibawah ini dapat membantu kalian, sayangnya tidak ada yang ingat passwordnya.
 
-[Oops Ceroboh Sekali Saya](./hint.exe)
+[Oops Ceroboh Sekali Saya](./secrethint.exe)
 
 ## Pertanyaan?
 
